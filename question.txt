@@ -1,0 +1,156 @@
+অবশ্যই 😄
+তুমি যেহেতু এখন C++ শিখতেছো, আর তোমার programming background already ভালো — তাই একদম basic না, আবার খুব hardও না — এমন কিছু problem দিলাম। এগুলো logic + loop + condition + array practice এর জন্য ভালো হবে।
+
+## Level 1 — Easy Logic
+
+### Problem 1: Even or Odd
+
+একটা integer input নিবে।
+সংখ্যাটি even নাকি odd print করবে।
+
+**Input:**
+`7`
+
+**Output:**
+`Odd`
+
+---
+
+### Problem 2: Largest of Three Numbers
+
+তিনটা সংখ্যা input নিবে।
+সবচেয়ে বড় সংখ্যাটি print করবে।
+
+**Input:**
+`4 9 2`
+
+**Output:**
+`9`
+
+---
+
+### Problem 3: Multiplication Table
+
+একটা সংখ্যা input নিবে।
+তার ১ থেকে ১০ পর্যন্ত নামতা print করবে।
+
+**Input:**
+`5`
+
+**Output:**
+
+```txt
+5 x 1 = 5
+5 x 2 = 10
+...
+5 x 10 = 50
+```
+
+---
+
+## Level 2 — Loop + Logic
+
+### Problem 4: Sum of Digits
+
+একটা integer input নিবে।
+তার digit গুলোর sum বের করবে।
+
+**Input:**
+`1234`
+
+**Output:**
+`10`
+
+---
+
+### Problem 5: Reverse a Number
+
+একটা সংখ্যা reverse করবে।
+
+**Input:**
+`12345`
+
+**Output:**
+`54321`
+
+---
+
+### Problem 6: Prime Number Check
+
+একটা সংখ্যা prime কি না check করবে।
+
+**Input:**
+`13`
+
+**Output:**
+`Prime`
+
+---
+
+## Level 3 — Array Practice
+
+### Problem 7: Find Maximum in Array
+
+প্রথমে `n` input নিবে।
+তারপর `n` সংখ্যার array নিবে।
+সবচেয়ে বড় সংখ্যাটি print করবে।
+
+**Input:**
+
+```txt
+5
+2 9 1 7 4
+```
+
+**Output:**
+`9`
+
+---
+
+### Problem 8: Count Even Numbers
+
+একটা array তে কয়টা even number আছে সেটা count করবে।
+
+**Input:**
+
+```txt
+6
+1 2 3 4 6 9
+```
+
+**Output:**
+`3`
+
+---
+
+## একটু Challenge 😎
+
+### Problem 9: Palindrome Number
+
+একটা সংখ্যা palindrome কি না check করবে।
+
+**Example:**
+`121 → Palindrome`
+`123 → Not Palindrome`
+
+---
+
+### Problem 10: Fibonacci Series
+
+প্রথম `n` টি Fibonacci number print করবে।
+
+**Input:**
+`7`
+
+**Output:**
+`0 1 1 2 3 5 8`
+
+---
+
+চাইলে তুমি এক এক করে solve করে code পাঠাতে পারো।
+আমি:
+
+* logic review করবো
+* কোথায় improve করা যায় বলবো
+* time complexity basic idea দিবো
+* professional style এ কিভাবে লিখতে হয় সেটাও দেখাবো 😄

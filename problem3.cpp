@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    int n;
+    cout<<"What is n? : ";
+    cin>>n;
+    for(int i=1;i<=10;i++){
+        cout<<n<<" x "<<i<<" = "<<n*i<<"\n";
+    }
+    return 0;
+}
