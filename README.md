@@ -26,8 +26,7 @@ This repository is created for learning and practicing C++ programming step by s
 This is a learning repository. Executable files (.exe) and build files are ignored using .gitignore.
 
 ## 👨‍💻 Author
-Hm Swapon
-=======
-# cpp-learn-with-w3schools
-This repository is a structured collection of my C++ programming practice, learning exercises, and problem-solving journey. It is designed to strengthen my understanding of core programming concepts, logical thinking, and problem-solving skills using C++.
+**Md Harun Or Rashid Swapon**
+
+C++ Developer | Learner | Problem Solver
 
